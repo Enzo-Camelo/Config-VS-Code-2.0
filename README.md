@@ -81,7 +81,7 @@ Configuração minimalista e produtiva para o **Visual Studio Code**, focada em 
 
 **Ícones:** Material Icon Theme
 
-**Fonte:** [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+**Fonte:** [JetBrains Mono ↗](https://www.jetbrains.com/lp/mono/)
 
 ## 🧩 Extensões Utilizadas
 
@@ -93,3 +93,6 @@ Configuração minimalista e produtiva para o **Visual Studio Code**, focada em 
 - Prettier
 - Python
 - Color Highlight
+- Tailwind CSS
+- Auto Rename Tag
+- Auto Import
